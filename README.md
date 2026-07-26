@@ -41,7 +41,7 @@ I enjoy transforming innovative ideas into scalable AI-powered products that sol
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 What I have Builded
 
 ### 🩺 MediNova
 
