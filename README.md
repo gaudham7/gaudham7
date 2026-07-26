@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=950&lines=Building+Intelligent+Products+for+Real+World+Impact.;Artificial+Intelligence+%E2%80%A2+Machine+Learning+%E2%80%A2+Software+Engineering.;Driven+by+Innovation.+Powered+by+Curiosity.;From+Ideas+to+Scalable+AI+Solutions."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=0A0A0A&center=true&vCenter=true&width=950&lines=Building+Intelligent+Products+for+Real+World+Impact.;Artificial+Intelligence+%E2%80%A2+Machine+Learning+%E2%80%A2+Software+Engineering.;Driven+by+Innovation.+Powered+by+Curiosity.;From+Ideas+to+Scalable+AI+Solutions."/>
 
 </div>
 <div
