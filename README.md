@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Goutham%20Sankar&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20|%20Product%20Builder%20|%20Technology%20Entrepreneur&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=30,14,12,24&text=Goutham%20Sankar&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=62&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlign=50&descAlignY=60&descSize=22"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Technology+Entrepreneur"/>
 
 <br>
 
@@ -39,25 +39,8 @@ I am a **B.Tech Computer Science and Engineering (Artificial Intelligence & Mach
 
 I enjoy transforming innovative ideas into scalable AI-powered products that solve real-world challenges.
 
----
 
 # 🚀 What I'm Building
-
-### 🧠 DeadlineAI
-
-AI Powered Productivity Planner
-
-✔ Smart Scheduling
-
-✔ AI Task Prioritization
-
-✔ Gemini Integration
-
-✔ Dashboard Analytics
-
-✔ Intelligent Planning
-
----
 
 ### 🩺 MediNova
 
@@ -308,7 +291,6 @@ I aspire to become an AI Engineer and Technology Entrepreneur who creates scalab
 
 <div align="center">
 
-## 💙 Turning Ideas Into Intelligent Products
 
 *"Innovation begins with curiosity. Success begins with execution."*
 
