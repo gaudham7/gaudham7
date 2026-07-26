@@ -1,6 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=134E4A&text=𝖦𝗈𝗎𝗍𝗁𝖺𝗆%20𝖲𝖺𝗇𝗄𝖺𝗋r&fontColor=F8FAFC&font=Sora&fontSize=58&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=64&descSize=20"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=134E4A&text=𝖦𝗈𝗎𝗍𝗁𝖺𝗆%20𝖲𝖺𝗇𝗄𝖺𝗋&fontColor=FFFFFF&font=Sora&fontSize=62&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=62&descSize=20"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=950&lines=Building+Intelligent+Products+for+Real+World+Impact.;Artificial+Intelligence+%E2%80%A2+Machine+Learning+%E2%80%A2+Software+Engineering.;Driven+by+Innovation.+Powered+by+Curiosity.;From+Ideas+to+Scalable+AI+Solutions."/>
+
+</div>
 <div
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products+That+Solve+Real+World+Problems.;Artificial+Intelligence+%7C+Software+Engineering+%7C+Innovation.;Learning.+Building.+Innovating."/>
 <br>
