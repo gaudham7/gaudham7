@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=gradient&customColorList=30,18,12,24&text=Goutham%20Sankar&fontColor=FFFFFF&fontSize=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Goutham%20Sankar&fontColor=FFFFFF&fontSize=62"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-0d4dfe29-1d5d-4ef2-9d44-f4b16c0c7d3f.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast"/>
 <br>
 
 <a href="https://github.com/gaudham7">
