@@ -1,9 +1,14 @@
   <div align="center">
 <div align="center">
 
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0A0A0A&text=Goutham%20Sankar&fontColor=F8FAFC&font=Sora&fontSize=58&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=64&descSize=20"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products+That+Solve+Real+World+Problems.;Artificial+Intelligence+%7C+Software+Engineering+%7C+Innovation.;Learning.+Building.+Innovating."/>
+
+</div>&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=64&descSize=20"/>
+
 
 </div>
 
