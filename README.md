@@ -43,22 +43,6 @@ I enjoy transforming innovative ideas into scalable AI-powered products that sol
 
 # 🚀 What I'm Building
 
-### 🧠 DeadlineAI
-
-AI Powered Productivity Planner
-
-✔ Smart Scheduling
-
-✔ AI Task Prioritization
-
-✔ Gemini Integration
-
-✔ Dashboard Analytics
-
-✔ Intelligent Planning
-
----
-
 ### 🩺 MediNova
 
 AI Healthcare Companion
@@ -106,20 +90,6 @@ Desktop Application
 ✔ Authentication
 
 ✔ MySQL Database
-
----
-
-### 🎓 Virtual Lab Platform
-
-Digital Practical Learning Environment
-
-✔ Interactive Simulations
-
-✔ AI Guided Learning
-
-✔ Progress Tracking
-
-✔ Faculty Dashboard
 
 ---
 
