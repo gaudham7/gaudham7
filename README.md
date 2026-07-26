@@ -7,7 +7,6 @@
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products+That+Solve+Real+World+Problems.;Artificial+Intelligence+%7C+Software+Engineering+%7C+Innovation.;Learning.+Building.+Innovating."/>
 
 </div>
   
