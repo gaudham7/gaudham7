@@ -1,9 +1,3 @@
-Based on everything we've built together, I would **not** simply copy your friend's README. A GitHub profile should communicate **who you are as an engineer**. Your biggest differentiator isn't just AI—it's **AI + Product Development + Entrepreneurship**.
-
-I would structure your GitHub profile as if it belonged to an aspiring AI Product Engineer and startup founder. The README should tell a story, not just list repositories.
-
-Below is an introduction designed specifically for **your GitHub profile**.
-
 <div align="center">
 
 # Hi, I'm Goutham Sankar 👋
