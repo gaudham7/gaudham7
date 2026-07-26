@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=30,14,12,24&text=Goutham%20Sankar&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=62&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlign=50&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=30,18,3&text=Goutham%20Sankar&fontColor=FFFFFF&fontSize=60&animation=fadeIn&desc=Artificial%20Intelligence%20Engineer%20•%20Product%20Builder&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Technology+Entrepreneur"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast"/>
 
 <br>
 
