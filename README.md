@@ -1,332 +1,317 @@
 <div align="center">
 
-# Hi, I'm Goutham Sankar 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Goutham%20Sankar&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20|%20Product%20Builder%20|%20Technology%20Entrepreneur&descAlignY=60&animation=fadeIn"/>
 
-### AI Engineer | Full Stack AI Developer | Product Builder | Startup & Innovation Enthusiast
+<br>
 
-*"Building intelligent technology that solves real-world problems."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast;Always+Learning+Always+Building"/>
 
-<p>
-I am a B.Tech Computer Science and Engineering student specializing in <b>Artificial Intelligence and Machine Learning</b>, passionate about designing AI-powered products that create meaningful impact. My interests lie at the intersection of <b>Artificial Intelligence, Software Engineering, Product Development, and Technology Entrepreneurship</b>, where I enjoy transforming innovative ideas into scalable solutions.
-</p>
+<br>
 
-<p>
-Rather than simply writing code, I focus on understanding real-world problems, validating ideas, designing intelligent systems, and developing technology that is practical, user-centric, and impactful. I believe great products are built by combining engineering excellence with business thinking and continuous innovation.
-</p>
+<a href="https://github.com/gaudham7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Technology+Entrepreneur;Building+AI+Powered+Products;Always+Learning+Always+Building"/>
+<a href="https://www.linkedin.com/in/goutham-sankar-9b5878330">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gaudham7&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-* B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-* Passionate about Artificial Intelligence, Machine Learning and Full Stack AI Development
-* Strong interest in Product Development, System Design and Software Engineering
-* Exploring Technology Entrepreneurship and Startup Innovation
-* Love transforming innovative ideas into real-world AI products
-* Actively participate in hackathons, workshops, technical communities and certification programs
-* Continuously learning emerging AI technologies and modern software development practices
+Technology isn't just about writing code.
 
----
+I believe great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact.
 
-# What I Build
+I am a **B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)** student passionate about
 
-I enjoy building products that combine Artificial Intelligence with practical applications across multiple domains.
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Software Engineering
+- Product Development
+- Technology Entrepreneurship
 
-### Artificial Intelligence
-
-* AI Assistants
-* Intelligent Automation
-* Generative AI Applications
-* AI Powered Recommendation Systems
-* Machine Learning Models
-* Healthcare AI Solutions
-
-### Product Development
-
-* End to End Product Design
-* User Focused Applications
-* Dashboard Development
-* AI Powered Web Applications
-* Intelligent Productivity Systems
-
-### Startup Innovation
-
-* Healthcare Technology
-* Education Technology
-* Productivity Platforms
-* Smart Infrastructure
-* Sustainable Technology Solutions
+I enjoy transforming innovative ideas into scalable AI-powered products that solve real-world challenges.
 
 ---
 
-# Featured Projects
+# 🚀 What I'm Building
 
-## DeadlineAI
+### 🧠 DeadlineAI
 
-AI Powered Productivity Management Platform
+AI Powered Productivity Planner
 
-Built to intelligently manage deadlines, schedules and productivity using Artificial Intelligence.
+✔ Smart Scheduling
 
-**Skills Applied**
+✔ AI Task Prioritization
 
-Python
+✔ Gemini Integration
 
-React
+✔ Dashboard Analytics
 
-TypeScript
-
-Node.js
-
-Express
-
-Prompt Engineering
-
-Google Gemini API
-
-Product Architecture
-
-Dashboard Development
+✔ Intelligent Planning
 
 ---
 
-## MediNova
+### 🩺 MediNova
 
-AI Powered Healthcare Companion
+AI Healthcare Companion
 
-An intelligent healthcare ecosystem designed to assist users through medicine recognition, healthcare guidance, AI assistance and smart healthcare services.
+✔ Medicine Recognition
 
-**Skills Applied**
+✔ AI Medical Assistant
 
-Artificial Intelligence
+✔ Drug Interaction Analysis
 
-Computer Vision
+✔ OCR Scanner
 
-OCR
+✔ Hospital Finder
 
-Machine Learning
-
-Healthcare AI
-
-API Integration
-
-Database Design
-
-System Design
+✔ Healthcare Dashboard
 
 ---
 
-## BookOra
+### 📚 BookOra
 
-AI Powered Reading Platform
+AI Reading Platform
 
-An intelligent book discovery ecosystem offering personalized recommendations, smart search and an enhanced reading experience.
+✔ Personalized Book Recommendation
 
-**Skills Applied**
+✔ AI Search
 
-Recommendation Systems
+✔ Reading Tracker
 
-Artificial Intelligence
+✔ Author Insights
 
-React
-
-Node.js
-
-Database Design
-
-User Experience Design
+✔ Smart Discovery
 
 ---
 
-## Insurance Management System
+### 🏛 Insurance Management System
 
-Python Desktop Application
+Desktop Application
 
-Database driven desktop application developed for efficient insurance policy and customer management.
+✔ Customer Management
 
-**Skills Applied**
+✔ Policy Management
 
-Python
+✔ Claim Management
 
-MySQL
+✔ Authentication
 
-Tkinter
-
-Database Management
-
-CRUD Operations
-
-Software Engineering
+✔ MySQL Database
 
 ---
 
-## Virtual Lab Platform
+### 🎓 Virtual Lab Platform
 
-A digital learning platform designed to make practical education more interactive, accessible and engaging.
+Digital Practical Learning Environment
 
----
+✔ Interactive Simulations
 
-## Decentralized Learning Platform
+✔ AI Guided Learning
 
-A next generation collaborative education ecosystem focused on secure, transparent and intelligent learning experiences.
+✔ Progress Tracking
 
----
-
-# Technical Skills
-
-### Programming
-
-Python
-
-JavaScript
-
-TypeScript
-
-SQL
-
-C
-
-### Artificial Intelligence
-
-Machine Learning
-
-Artificial Intelligence
-
-Generative AI
-
-Prompt Engineering
-
-Large Language Models
-
-Computer Vision
-
-Natural Language Processing
-
-Recommendation Systems
-
-Google Gemini API
-
-### Full Stack Development
-
-React
-
-Node.js
-
-Express.js
-
-REST APIs
-
-Tailwind CSS
-
-Vite
-
-Responsive Web Development
-
-Authentication
-
-### Databases
-
-MySQL
-
-SQLite
-
-Database Design
-
-Database Management
-
-### Software Engineering
-
-System Design
-
-Software Architecture
-
-Object Oriented Programming
-
-Requirement Analysis
-
-Problem Solving
-
-Version Control
-
-Git
-
-GitHub
+✔ Faculty Dashboard
 
 ---
 
-# Product & Business Skills
+### 🌐 Decentralized Learning Platform
 
-Product Development
+Next Generation Learning Ecosystem
 
-Product Strategy
+✔ Secure Learning
 
-Product Ideation
+✔ AI Tutor
 
-Startup Ideation
+✔ Collaborative Learning
 
-Technology Entrepreneurship
-
-Business Model Development
-
-Innovation Management
-
-Design Thinking
-
-Market Research
-
-Requirement Analysis
-
-Project Management
-
-Leadership
-
-Team Collaboration
-
-Strategic Thinking
-
-Communication
+✔ Skill Analytics
 
 ---
 
-# Currently Exploring
+# 🛠 Tech Stack
 
-* AI Agents
-* Agentic AI
-* Retrieval Augmented Generation
-* Large Language Models
-* AI Product Engineering
-* Cloud AI
-* MLOps
-* AI System Design
-* Startup Building
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,mysql"/>
+
+</p>
 
 ---
 
-# Vision
+## Frontend
 
-My long-term goal is to become an AI Engineer and Technology Entrepreneur who builds intelligent products capable of solving meaningful global challenges. I aspire to bridge Artificial Intelligence, software engineering and business to create scalable solutions that improve lives and generate lasting impact.
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 💼 Product & Business Skills
+
+- Product Development
+- Product Strategy
+- Startup Ideation
+- Entrepreneurship
+- Design Thinking
+- Business Model Development
+- Market Research
+- Project Management
+- Leadership
+- Innovation Management
+- Requirement Analysis
+- Team Collaboration
+
+---
+
+# 🏆 Certifications
+
+🏅 Oracle Fusion AI Agent Studio Certified Foundations Associate
+
+🏅 IBM Artificial Intelligence Fundamentals
+
+🏅 Cisco Introduction to Data Science
+
+🏅 Cisco Introduction to Cybersecurity
+
+🏅 HackerRank Python
+
+🏅 Infosys Fundamentals of Information Security
+
+---
+
+# 🌱 Currently Learning
+
+- Generative AI
+
+- Agentic AI
+
+- AI Engineering
+
+- RAG Applications
+
+- MLOps
+
+- Cloud AI
+
+- AI Product Architecture
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaudham7&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 My Vision
+
+My mission is to bridge the gap between Artificial Intelligence, Engineering, and Entrepreneurship by building intelligent products that solve meaningful global problems.
+
+I aspire to become an AI Engineer and Technology Entrepreneur who creates scalable solutions capable of improving healthcare, education, productivity, and everyday life through innovation.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/gaudham7">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/goutham-sankar-9b5878330">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### "The future belongs to those who don't just use AI—they build it."
+## 💙 Turning Ideas Into Intelligent Products
 
-**Always Building • Always Learning • Always Innovating**
+*"Innovation begins with curiosity. Success begins with execution."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </div>
-
-## Why this is stronger than a typical GitHub README
-
-This introduction is designed to make someone immediately understand:
-
-* **Who you are** (AI Engineer and Product Builder).
-* **What you build** (AI-powered products, not just coding assignments).
-* **How you think** (problem-first, user-focused, entrepreneurial).
-* **Where you're headed** (technology entrepreneurship and impactful AI).
-
-It positions your GitHub profile as a professional engineering portfolio rather than just a collection of repositories, while still leaving room to showcase your projects, certifications, GitHub stats, contribution graphs, and future work.
-
