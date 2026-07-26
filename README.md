@@ -1,9 +1,8 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=111111&text=Goutham%20Sankar&font=Sora&fontColor=FFFFFF&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=16181D&text=Goutham%20Sankar&font=Sora&fontColor=FFFFFF&fontSize=58"/>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+Intelligent+Products;Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Technology+Entrepreneur"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=5E6AD2&center=true&width=900&lines=Artificial+Intelligence+Engineer;Building+AI+Products;Technology+Entrepreneur"/>
 <br>
 
 <a href="https://github.com/gaudham7">
