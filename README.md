@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=16181D&text=Goutham%20Sankar&font=Sora&fontColor=FFFFFF&fontSize=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=16181D&text=𝖦𝗈𝗎𝗍𝗁𝖺𝗆%20𝖲𝖺𝗇𝗄𝖺𝗋&font=Sora&fontColor=FFFFFF&fontSize=58"/>
   
 <br>
 
