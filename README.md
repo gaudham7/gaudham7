@@ -21,12 +21,7 @@
 
 # Welcome On Board 
 
-Technology isn't just about writing code.
-
-I believe great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact.
-
-I am a **B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)** student passionate about
-
+Technology isn't just about writing code , I believe great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact.I am a **B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)** student passionate about :
 - Artificial Intelligence
 - Machine Learning
 - Full Stack Development
