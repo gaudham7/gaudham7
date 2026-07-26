@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=30,14,12,24&text=Goutham%20Sankar&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=62&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlign=50&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0A0A0A&text=Goutham%20Sankar&fontColor=F8FAFC&fontSize=58&font=Sora&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=68&descSize=18"/>
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space Grotesks&weight=700&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast"/>
