@@ -291,14 +291,14 @@ I aspire to become an AI Engineer and Technology Entrepreneur who creates scalab
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 
 </a>
-
+### Thanks for choosing my profile!
 </p>
 
 ---
 
 <div align="center">
 
-### Thanks for choosing my profile!
+
 
 *"Innovation begins with curiosity. Success begins with execution."*
 
