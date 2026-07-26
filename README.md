@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0A0A0A&text=Goutham%20Sankar&fontColor=F8FAFC&fontSize=58&font=Sora&animation=fadeIn&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Technology%20Entrepreneur&descAlignY=68&descSize=18"/>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space Grotesks&weight=700&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Building+AI+Powered+Products;Startup+and+Innovation+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+Intelligent+Products;Artificial+Intelligence+Engineer;Full+Stack+AI+Developer;Technology+Entrepreneur"/>
 <br>
 
 <a href="https://github.com/gaudham7">
