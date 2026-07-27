@@ -228,26 +228,6 @@ Next Generation Learning Ecosystem
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaudham7&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 My Vision
 
 My mission is to bridge the gap between Artificial Intelligence, Engineering, and Entrepreneurship by building intelligent products that solve meaningful global problems.
