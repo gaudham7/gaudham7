@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=gaudham7&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -203,8 +202,6 @@ Next Generation Learning Ecosystem
 🏅 Cisco Introduction to Data Science
 
 🏅 Cisco Introduction to Cybersecurity
-
-🏅 HackerRank Python
 
 🏅 Infosys Fundamentals of Information Security
 
