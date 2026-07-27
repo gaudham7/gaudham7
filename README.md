@@ -258,7 +258,6 @@ I aspire to become an AI Engineer and Technology Entrepreneur who creates scalab
 
 <div align="center">
 
-## Thank you for choosing me !!
 
 *"Innovation begins with curiosity. Success begins with execution."*
 
