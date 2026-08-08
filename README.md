@@ -142,6 +142,7 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 
 ---
 
+
 ## 🛠️ Technology
 
 <div align="center">
@@ -165,7 +166,7 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logoColor=FFFFFF"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/ByteTrack-111111?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=for-the-badge&logoColor=FFFFFF"/>
@@ -184,7 +185,7 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&logoColor=FFFFFF"/>
@@ -195,16 +196,38 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 
 </div>
 
+---
+
 ## 🏆 Certifications
 
-- **Oracle Fusion AI Agent Studio — Certified Foundations**
-- **IBM Artificial Intelligence Fundamentals**
-- **Cisco Introduction to Data Science**
-- **HP LIFE — Introduction to Data Science**
-- **HP LIFE — Social Media Marketing**
-- **HP LIFE — Professional Networking for Career Growth**
+<div align="center">
+
+🏅 **Oracle Fusion AI Agent Studio — Certified Foundations**
+
+<br>
+
+🏅 **IBM Artificial Intelligence Fundamentals**
+
+<br>
+
+🏅 **Cisco Introduction to Data Science**
+
+<br>
+
+🏅 **HP LIFE — Introduction to Data Science**
+
+<br>
+
+🏅 **HP LIFE — Social Media Marketing**
+
+<br>
+
+🏅 **HP LIFE — Professional Networking for Career Growth**
+
+</div>
 
 ---
+
 ## 💼 Product & Business Skills
 
 <div align="center">
@@ -228,21 +251,19 @@ Team Collaboration
 
 ## 📚 Currently Exploring
 
+<div align="center">
 
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Generative AI
-RAG Systems
-AI Product Architecture
-MLOps
-Cloud AI
+Artificial Intelligence  
+Machine Learning  
+Computer Vision  
+Generative AI  
+RAG Systems  
+AI Product Architecture  
+MLOps  
+Cloud AI  
 Full-Stack AI Applications
-```
 
----
-
-
+</div>
 
 ---
 
@@ -276,18 +297,19 @@ Not simply to follow the future.
 
 ---
 
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-### Let's build something meaningful.
+### **Let's build something meaningful.**
 
 <br>
 
 <a href="https://github.com/gaudham7">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
