@@ -168,7 +168,7 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 
 ## 📚 Currently Exploring
 
-```text
+
 Artificial Intelligence
 Machine Learning
 Computer Vision
@@ -182,24 +182,7 @@ Full-Stack AI Applications
 
 ---
 
-## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaudham7&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
