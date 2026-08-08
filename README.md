@@ -32,8 +32,6 @@
 
 > *"Technology isn't just about writing code — great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact."*
 
-> *“I’m fascinated by what happens when an idea stops being an idea — and becomes something real.”*
-
 I’m a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student, **AI Engineer in the making, innovation creator, and builder** driven by one question:
 
 **What can we build that doesn’t exist yet?**
