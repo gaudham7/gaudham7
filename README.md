@@ -32,241 +32,208 @@
 
 > *"Technology isn't just about writing code — great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact."*
 
-I'm a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student who lives at the intersection of **Artificial Intelligence, Software Engineering, and Entrepreneurship**. I love turning ambitious ideas into scalable, AI-powered products that solve real-world problems.
+> *“I’m fascinated by what happens when an idea stops being an idea — and becomes something real.”*
 
-<table>
-<tr>
-<td>
+I’m a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student, **AI Engineer in the making, innovation creator, and builder** driven by one question:
 
-<div align="center">
+**What can we build that doesn’t exist yet?**
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaudham7&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/gaudham7?style=for-the-badge&color=B026FF&logo=github)
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+I work at the intersection of **Artificial Intelligence, Software Engineering, Product Development, and Entrepreneurship** — turning ideas into intelligent systems, products, and experiences designed to solve meaningful problems.
 
-</div>
+I don't build just to experiment with technology.
 
----
+**I build to explore possibilities.  
+I build to solve.  
+I build to create what comes next.**
 
-## 🧠 About Me
-
-> *"Technology isn't just about writing code — great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact."*
-
-I'm a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student who lives at the intersection of **Artificial Intelligence, Software Engineering, and Entrepreneurship**. I love turning ambitious ideas into scalable, AI-powered products that solve real-world problems.
-
-<table>
-<tr>
-<td>
-
-**🎯 Focus Areas**
-- 🤖 Artificial Intelligence
-- 🧬 Machine Learning
-- 💻 Full Stack Development
-- ⚙️ Software Engineering
-- 🚀 Product Development
-- 📈 Technology Entrepreneurship
-
-</td>
-</tr>
-</table>
+> **Think beyond the possible. Build beyond the obvious.**
 
 ---
 
-## 🚀 What I've Built
+## ⚡ What I Build
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Area | Focus |
+|---|---|
+| 🤖 **Artificial Intelligence** | Machine Learning • Deep Learning • Computer Vision • Generative AI |
+| 💻 **Software Engineering** | Python • Full-Stack Development • APIs • Application Architecture |
+| 🧠 **AI Products** | Intelligent Assistants • Automation • Recommendation Systems |
+| 🚀 **Product Development** | Prototyping • Product Architecture • Problem Solving |
+| 📈 **Entrepreneurship** | Innovation • Startup Ideas • Technology-driven Solutions |
+
+---
+
+# 🚀 Selected Projects
 
 ### 🩺 MediNova
 **AI Healthcare Companion**
 
-An intelligent healthcare assistant that brings AI-powered diagnostics and support to everyday users.
+An AI-powered healthcare platform designed to make everyday healthcare information and assistance more accessible.
 
-`✔` Medicine Recognition
-`✔` AI Medical Assistant
-`✔` Drug Interaction Analysis
-`✔` OCR Scanner
-`✔` Hospital Finder
-`✔` Healthcare Dashboard
+- Medicine Recognition
+- Prescription & OCR Analysis
+- Drug Interaction Analysis
+- AI Healthcare Assistant
+- Hospital Discovery
+- Healthcare Dashboard
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📚 BookOra
-**AI Reading Platform**
+**AI-Powered Reading Platform**
 
-A next-gen reading companion that learns your taste and helps you discover your next favorite book.
+A personalized reading ecosystem designed to help readers discover, explore, and track books based on their interests.
 
-`✔` Personalized Recommendations
-`✔` AI-Powered Search
-`✔` Reading Tracker
-`✔` Author Insights
-`✔` Smart Discovery
+- Personalized Recommendations
+- AI-Powered Search
+- Reading Tracking
+- Author Insights
+- Intelligent Discovery
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
+
+### 🚬 Cigarette Violation Detection
+**Real-Time Computer Vision System**
+
+A computer-vision system designed to detect cigarette-smoking violations from video using object detection and tracking.
+
+**Stack:** `YOLO` `ByteTrack` `OpenCV` `Python`
+
+---
+
+### ✋ HandPilot — GestureDesk AI
+**AI-Powered Gesture Control System**
+
+A computer-vision interface that transforms hand gestures into desktop interactions and application controls.
+
+**Stack:** `MediaPipe` `OpenCV` `Python`
+
+---
 
 ### 🏛️ Insurance Management System
-**Desktop Application**
+**Desktop Management Application**
 
-A full-featured desktop suite for managing customers, policies, and claims end-to-end.
+A complete management system for handling insurance customers, policies, claims, and authentication.
 
-`✔` Customer Management
-`✔` Policy Management
-`✔` Claim Management
-`✔` Authentication
-`✔` MySQL Database
+- Customer Management
+- Policy Management
+- Claim Management
+- Authentication
+- MySQL Database
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🌐 Decentralized Learning Platform
-**Next-Gen Learning Ecosystem**
+**AI-Driven Learning Ecosystem**
 
-A secure, collaborative learning ecosystem powered by AI tutoring and skill analytics.
+A concept for a secure and collaborative learning platform combining AI tutoring, skill analytics, and decentralized learning infrastructure.
 
-`✔` Secure Learning
-`✔` AI Tutor
-`✔` Collaborative Learning
-`✔` Skill Analytics
-
-</td>
-</tr>
-</table>
+- AI Tutor
+- Collaborative Learning
+- Skill Analytics
+- Secure Learning Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology
 
-**Programming Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,mysql" />
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**Frontend**
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=4285F4)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=FFFFFF)
 
-**Backend**
+### Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
-&nbsp;
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
----
-
-
-
-### 🐍 Contribution Snake
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # regenerate every 6 hours
-  workflow_dispatch: {}      # allow manual trigger from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate-snake:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=%23FF2E9F&color_dots=%233d1a5e,%236C2FBF,%23B026FF,%23FF2E9F,%23FF6EC7&color_empty=%230d0614
-            dist/snake-dark.svg?palette=github-dark&color_snake=%23FF2E9F
-
-      - name: Push generated SVGs to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-## 💼 Product & Business Skills
-
-<div align="center">
-
-![Product Development](https://img.shields.io/badge/-Product%20Development-B026FF?style=flat-square)
-![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-B026FF?style=flat-square)
-![Startup Ideation](https://img.shields.io/badge/-Startup%20Ideation-B026FF?style=flat-square)
-![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-B026FF?style=flat-square)
-![Design Thinking](https://img.shields.io/badge/-Design%20Thinking-B026FF?style=flat-square)
-![Business Model Development](https://img.shields.io/badge/-Business%20Model%20Dev-B026FF?style=flat-square)
-![Market Research](https://img.shields.io/badge/-Market%20Research-B026FF?style=flat-square)
-![Project Management](https://img.shields.io/badge/-Project%20Management-B026FF?style=flat-square)
-![Leadership](https://img.shields.io/badge/-Leadership-B026FF?style=flat-square)
-![Innovation Management](https://img.shields.io/badge/-Innovation%20Management-B026FF?style=flat-square)
-![Requirement Analysis](https://img.shields.io/badge/-Requirement%20Analysis-B026FF?style=flat-square)
-![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-B026FF?style=flat-square)
-
-</div>
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 Oracle Fusion AI Agent Studio Certified Foundations
-- 🥇 IBM Artificial Intelligence Fundamentals
-- 🥇 Cisco Introduction to Data Science
+- **Oracle Fusion AI Agent Studio — Certified Foundations**
+- **IBM Artificial Intelligence Fundamentals**
+- **Cisco Introduction to Data Science**
+- **HP LIFE — Introduction to Data Science**
+- **HP LIFE — Social Media Marketing**
+- **HP LIFE — Professional Networking for Career Growth**
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Exploring
 
-<div align="center">
-
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
-![AI Engineering](https://img.shields.io/badge/-AI%20Engineering-FF2E9F?style=for-the-badge&color=FF2E9F)
-![RAG Applications](https://img.shields.io/badge/-RAG%20Applications-FF2E9F?style=for-the-badge&color=FF2E9F)
-![MLOps](https://img.shields.io/badge/-MLOps-FF2E9F?style=for-the-badge&color=FF2E9F)
-![Cloud AI](https://img.shields.io/badge/-Cloud%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
-![AI Product Architecture](https://img.shields.io/badge/-AI%20Product%20Architecture-FF2E9F?style=for-the-badge&color=FF2E9F)
-
-</div>
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Generative AI
+RAG Systems
+AI Product Architecture
+MLOps
+Cloud AI
+Full-Stack AI Applications
+```
 
 ---
 
-## 🎯 My Vision
+## 📊 GitHub
 
-My mission is to bridge the gap between **Artificial Intelligence, Engineering, and Entrepreneurship** by building intelligent products that solve meaningful global problems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
 
-I aspire to become an **AI Engineer and Technology Entrepreneur** who creates scalable solutions capable of improving healthcare, education, productivity, and everyday life through innovation.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gaudham7&hide_border=true&theme=transparent" />
+</p>
 
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🎯 Vision
+
+> **“The future belongs to those willing to build it.”**
+
+My goal is to work at the intersection of **Artificial Intelligence, Engineering, and Entrepreneurship** — creating technology that is not only intelligent, but useful, scalable, and meaningful.
+
+I want to build products that can move from:
+
+**Idea → Prototype → Product → Impact**
+
+Not simply to follow the future.
+
+**To help build it.**
+
+---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/gaudham7">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaudham7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+---
 
-<br/>
-
-*"Innovation begins with curiosity. Success begins with execution."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <i>Ideas are everywhere. Builders turn them into reality.</i>
+</p>
