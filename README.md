@@ -137,7 +137,6 @@ A secure, collaborative learning ecosystem powered by AI tutoring and skill anal
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 &nbsp;
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Database**
 
