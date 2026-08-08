@@ -28,237 +28,235 @@
 
 # Welcome On Board 
 
-Technology isn't just about writing code , I believe great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact.I am a **B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)** student passionate about :
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Software Engineering
-- Product Development
-- Technology Entrepreneurship
+## 🧠 About Me
 
-I enjoy transforming innovative ideas into scalable AI-powered products that solve real-world challenges.
+> *"Technology isn't just about writing code — great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact."*
+
+I'm a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student who lives at the intersection of **Artificial Intelligence, Software Engineering, and Entrepreneurship**. I love turning ambitious ideas into scalable, AI-powered products that solve real-world problems.
+
+<table>
+<tr>
+<td>
+
+**🎯 Focus Areas**
+- 🤖 Artificial Intelligence
+- 🧬 Machine Learning
+- 💻 Full Stack Development
+- ⚙️ Software Engineering
+- 🚀 Product Development
+- 📈 Technology Entrepreneurship
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 What I have Builded
+## 🚀 What I've Built
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🩺 MediNova
+**AI Healthcare Companion**
 
-AI Healthcare Companion
+An intelligent healthcare assistant that brings AI-powered diagnostics and support to everyday users.
 
-✔ Medicine Recognition
+`✔` Medicine Recognition
+`✔` AI Medical Assistant
+`✔` Drug Interaction Analysis
+`✔` OCR Scanner
+`✔` Hospital Finder
+`✔` Healthcare Dashboard
 
-✔ AI Medical Assistant
-
-✔ Drug Interaction Analysis
-
-✔ OCR Scanner
-
-✔ Hospital Finder
-
-✔ Healthcare Dashboard
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📚 BookOra
+**AI Reading Platform**
 
-AI Reading Platform
+A next-gen reading companion that learns your taste and helps you discover your next favorite book.
 
-✔ Personalized Book Recommendation
+`✔` Personalized Recommendations
+`✔` AI-Powered Search
+`✔` Reading Tracker
+`✔` Author Insights
+`✔` Smart Discovery
 
-✔ AI Search
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✔ Reading Tracker
+### 🏛️ Insurance Management System
+**Desktop Application**
 
-✔ Author Insights
+A full-featured desktop suite for managing customers, policies, and claims end-to-end.
 
-✔ Smart Discovery
+`✔` Customer Management
+`✔` Policy Management
+`✔` Claim Management
+`✔` Authentication
+`✔` MySQL Database
 
----
-
-### 🏛 Insurance Management System
-
-Desktop Application
-
-✔ Customer Management
-
-✔ Policy Management
-
-✔ Claim Management
-
-✔ Authentication
-
-✔ MySQL Database
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Decentralized Learning Platform
+**Next-Gen Learning Ecosystem**
 
-Next Generation Learning Ecosystem
+A secure, collaborative learning ecosystem powered by AI tutoring and skill analytics.
 
-✔ Secure Learning
+`✔` Secure Learning
+`✔` AI Tutor
+`✔` Collaborative Learning
+`✔` Skill Analytics
 
-✔ AI Tutor
-
-✔ Collaborative Learning
-
-✔ Skill Analytics
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,mysql"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Frontend
+## 🛠️ Tech Stack
 
-<p>
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,mysql" />
 
-</p>
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
-## Backend
+**Backend**
 
-<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+**AI & Machine Learning**
 
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+&nbsp;
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
+**Database**
 
-## AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<p>
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
-
----
-
-# 💼 Product & Business Skills
-
-- Product Development
-- Product Strategy
-- Startup Ideation
-- Entrepreneurship
-- Design Thinking
-- Business Model Development
-- Market Research
-- Project Management
-- Leadership
-- Innovation Management
-- Requirement Analysis
-- Team Collaboration
-
----
-
-# 🏆 Certifications
-
-🏅 Oracle Fusion AI Agent Studio Certified Foundations Associate
-
-🏅 IBM Artificial Intelligence Fundamentals
-
-🏅 Cisco Introduction to Data Science
-
-🏅 Cisco Introduction to Cybersecurity
-
-🏅 Infosys Fundamentals of Information Security
-
----
-
-# 🌱 Currently Learning
-
-- Generative AI
-
-- Agentic AI
-
-- AI Engineering
-
-- RAG Applications
-
-- MLOps
-
-- Cloud AI
-
-- AI Product Architecture
-
----
-
-# 🎯 My Vision
-
-My mission is to bridge the gap between Artificial Intelligence, Engineering, and Entrepreneurship by building intelligent products that solve meaningful global problems.
-
-I aspire to become an AI Engineer and Technology Entrepreneur who creates scalable solutions capable of improving healthcare, education, productivity, and everyday life through innovation.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/gaudham7">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/goutham-sankar-9b5878330">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</p>
-
----
+## 📊 GitHub Analytics & Punctuality
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=synthwave&hide_border=true" />
 
-*"Innovation begins with curiosity. Success begins with execution."*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=synthwave&hide_border=true" />
+
+<br/><br/>
+
+<!-- Contribution / commit consistency graph — shows submission activity & punctuality over time -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=synthwave&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake.svg" width="100%"/>
+</picture>
+
+> This snake eats through your real contribution graph and regenerates automatically every 6 hours via the GitHub Action in `.github/workflows/snake.yml` (setup steps below).
+
+---
+
+## 💼 Product & Business Skills
+
+<div align="center">
+
+![Product Development](https://img.shields.io/badge/-Product%20Development-B026FF?style=flat-square)
+![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-B026FF?style=flat-square)
+![Startup Ideation](https://img.shields.io/badge/-Startup%20Ideation-B026FF?style=flat-square)
+![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-B026FF?style=flat-square)
+![Design Thinking](https://img.shields.io/badge/-Design%20Thinking-B026FF?style=flat-square)
+![Business Model Development](https://img.shields.io/badge/-Business%20Model%20Dev-B026FF?style=flat-square)
+![Market Research](https://img.shields.io/badge/-Market%20Research-B026FF?style=flat-square)
+![Project Management](https://img.shields.io/badge/-Project%20Management-B026FF?style=flat-square)
+![Leadership](https://img.shields.io/badge/-Leadership-B026FF?style=flat-square)
+![Innovation Management](https://img.shields.io/badge/-Innovation%20Management-B026FF?style=flat-square)
+![Requirement Analysis](https://img.shields.io/badge/-Requirement%20Analysis-B026FF?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-B026FF?style=flat-square)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+- 🥇 Oracle Fusion AI Agent Studio Certified Foundations
+- 🥇 IBM Artificial Intelligence Fundamentals
+- 🥇 Cisco Introduction to Data Science
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
+![AI Engineering](https://img.shields.io/badge/-AI%20Engineering-FF2E9F?style=for-the-badge&color=FF2E9F)
+![RAG Applications](https://img.shields.io/badge/-RAG%20Applications-FF2E9F?style=for-the-badge&color=FF2E9F)
+![MLOps](https://img.shields.io/badge/-MLOps-FF2E9F?style=for-the-badge&color=FF2E9F)
+![Cloud AI](https://img.shields.io/badge/-Cloud%20AI-FF2E9F?style=for-the-badge&color=FF2E9F)
+![AI Product Architecture](https://img.shields.io/badge/-AI%20Product%20Architecture-FF2E9F?style=for-the-badge&color=FF2E9F)
+
+</div>
+
+---
+
+## 🎯 My Vision
+
+My mission is to bridge the gap between **Artificial Intelligence, Engineering, and Entrepreneurship** by building intelligent products that solve meaningful global problems.
+
+I aspire to become an **AI Engineer and Technology Entrepreneur** who creates scalable solutions capable of improving healthcare, education, productivity, and everyday life through innovation.
+
+---
+
+## ⚙️ Setup Notes
+
+1. Replace every `YOUR-GITHUB-USERNAME` (and `YOUR-LINKEDIN-USERNAME`) in this file with your real handles.
+2. Save this file as `README.md` inside a repo named exactly your GitHub username (e.g. `YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME`) — GitHub renders that repo's README on your profile page.
+3. Copy `snake.yml` (included below) into `.github/workflows/snake.yml` in that same repo, commit, and push to `main`.
+4. In the repo's **Settings → Actions → General → Workflow permissions**, enable **"Read and write permissions"** so the action can publish the generated SVGs.
+5. Run the workflow once manually (**Actions tab → Generate Snake → Run workflow**) — after that it self-updates every 6 hours as you commit.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+<br/>
+
+*"Innovation begins with curiosity. Success begins with execution."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
