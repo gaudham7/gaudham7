@@ -38,6 +38,26 @@ I'm a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student 
 <tr>
 <td>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=gaudham7&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/gaudham7?style=for-the-badge&color=B026FF&logo=github)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+> *"Technology isn't just about writing code — great technology begins with identifying meaningful problems and building intelligent solutions that create lasting impact."*
+
+I'm a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student who lives at the intersection of **Artificial Intelligence, Software Engineering, and Entrepreneurship**. I love turning ambitious ideas into scalable, AI-powered products that solve real-world problems.
+
+<table>
+<tr>
+<td>
+
 **🎯 Focus Areas**
 - 🤖 Artificial Intelligence
 - 🧬 Machine Learning
@@ -137,6 +157,7 @@ A secure, collaborative learning ecosystem powered by AI tutoring and skill anal
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 &nbsp;
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Database**
 
@@ -152,30 +173,30 @@ A secure, collaborative learning ecosystem powered by AI tutoring and skill anal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=synthwave&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gaudham7&theme=synthwave&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&theme=synthwave&hide_border=true" />
 
 <br/><br/>
 
 <!-- Contribution / commit consistency graph — shows submission activity & punctuality over time -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaudham7&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=synthwave&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=gaudham7&theme=synthwave&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" width="100%"/>
 </picture>
 
 > This snake eats through your real contribution graph and regenerates automatically every 6 hours via the GitHub Action in `.github/workflows/snake.yml` (setup steps below).
@@ -237,8 +258,8 @@ I aspire to become an **AI Engineer and Technology Entrepreneur** who creates sc
 
 ## ⚙️ Setup Notes
 
-1. Replace every `YOUR-GITHUB-USERNAME` (and `YOUR-LINKEDIN-USERNAME`) in this file with your real handles.
-2. Save this file as `README.md` inside a repo named exactly your GitHub username (e.g. `YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME`) — GitHub renders that repo's README on your profile page.
+1. Replace `YOUR-LINKEDIN-USERNAME` in the "Let's Connect" section below with your real LinkedIn handle.
+2. Save this file as `README.md` inside a repo named exactly your GitHub username (e.g. `gaudham7/gaudham7`) — GitHub renders that repo's README on your profile page.
 3. Copy `snake.yml` (included below) into `.github/workflows/snake.yml` in that same repo, commit, and push to `main`.
 4. In the repo's **Settings → Actions → General → Workflow permissions**, enable **"Read and write permissions"** so the action can publish the generated SVGs.
 5. Run the workflow once manually (**Actions tab → Generate Snake → Run workflow**) — after that it self-updates every 6 hours as you commit.
@@ -249,7 +270,7 @@ I aspire to become an **AI Engineer and Technology Entrepreneur** who creates sc
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaudham7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 <br/>
