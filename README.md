@@ -323,12 +323,14 @@ who creates scalable solutions capable of improving **healthcare, education, pro
 
 <div align="center">
 
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E1B4B,50:312E81,75:0E7490,100:111827&height=120&section=footer&animation=twinkling"/>
+<img
+  width="100%"
+  height="280"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:111827,40:312E81,60:4C1D95,80:0E7490,100:020617&height=280&section=footer&animation=twinkling"
+/>
 
 </div>
 
 <div align="center">
-
-*Ideas are everywhere. Builders turn them into reality.*
 
 </div>
