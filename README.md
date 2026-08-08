@@ -157,7 +157,6 @@ A secure, collaborative learning ecosystem powered by AI tutoring and skill anal
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 &nbsp;
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Database**
 
@@ -169,39 +168,41 @@ A secure, collaborative learning ecosystem powered by AI tutoring and skill anal
 
 ---
 
-## 📊 GitHub Analytics & Punctuality
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gaudham7&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gaudham7&theme=synthwave&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaudham7&layout=compact&theme=synthwave&hide_border=true" />
-
-<br/><br/>
-
-<!-- Contribution / commit consistency graph — shows submission activity & punctuality over time -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaudham7&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaudham7&theme=synthwave&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
 
 ### 🐍 Contribution Snake
+name: Generate Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gaudham7/gaudham7/output/snake.svg" width="100%"/>
-</picture>
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # regenerate every 6 hours
+  workflow_dispatch: {}      # allow manual trigger from the Actions tab
+  push:
+    branches:
+      - main
 
-> This snake eats through your real contribution graph and regenerates automatically every 6 hours via the GitHub Action in `.github/workflows/snake.yml` (setup steps below).
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=%23FF2E9F&color_dots=%233d1a5e,%236C2FBF,%23B026FF,%23FF2E9F,%23FF6EC7&color_empty=%230d0614
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23FF2E9F
 
----
+      - name: Push generated SVGs to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ## 💼 Product & Business Skills
 
@@ -254,17 +255,6 @@ My mission is to bridge the gap between **Artificial Intelligence, Engineering, 
 
 I aspire to become an **AI Engineer and Technology Entrepreneur** who creates scalable solutions capable of improving healthcare, education, productivity, and everyday life through innovation.
 
----
-
-## ⚙️ Setup Notes
-
-1. Replace `YOUR-LINKEDIN-USERNAME` in the "Let's Connect" section below with your real LinkedIn handle.
-2. Save this file as `README.md` inside a repo named exactly your GitHub username (e.g. `gaudham7/gaudham7`) — GitHub renders that repo's README on your profile page.
-3. Copy `snake.yml` (included below) into `.github/workflows/snake.yml` in that same repo, commit, and push to `main`.
-4. In the repo's **Settings → Actions → General → Workflow permissions**, enable **"Read and write permissions"** so the action can publish the generated SVGs.
-5. Run the workflow once manually (**Actions tab → Generate Snake → Run workflow**) — after that it self-updates every 6 hours as you commit.
-
----
 
 ## 🤝 Let's Connect
 
