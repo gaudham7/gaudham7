@@ -48,15 +48,25 @@ I build to create what comes next.**
 
 ---
 
+
 ## ⚡ What I Build
 
-| Area | Focus |
-|---|---|
-| 🤖 **Artificial Intelligence** | Machine Learning • Deep Learning • Computer Vision • Generative AI |
-| 💻 **Software Engineering** | Python • Full-Stack Development • APIs • Application Architecture |
-| 🧠 **AI Products** | Intelligent Assistants • Automation • Recommendation Systems |
-| 🚀 **Product Development** | Prototyping • Product Architecture • Problem Solving |
-| 📈 **Entrepreneurship** | Innovation • Startup Ideas • Technology-driven Solutions |
+<div align="center">
+
+| 🤖 Artificial Intelligence | 💻 Software Engineering |
+|:---:|:---:|
+| Machine Learning | Python |
+| Deep Learning | Full-Stack Development |
+| Computer Vision | APIs |
+| Generative AI | Application Architecture |
+
+| 🧠 AI Products | 🚀 Product Development |
+|:---:|:---:|
+| Intelligent Assistants | Prototyping |
+| Automation | Product Architecture |
+| Recommendation Systems | Problem Solving |
+
+</div>
 
 ---
 
@@ -134,26 +144,56 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 
 ## 🛠️ Technology
 
+<div align="center">
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<br><br>
 
 ### AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=4285F4)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge&logoColor=FFFFFF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ByteTrack-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-111111?style=for-the-badge&logoColor=FFFFFF"/>
+
+<br><br>
 
 ### Development
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 
----
+<br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Application%20Architecture-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Database%20Design-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OCR-111111?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=FFFFFF"/>
+
+</div>
 
 ## 🏆 Certifications
 
@@ -163,6 +203,26 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 - **HP LIFE — Introduction to Data Science**
 - **HP LIFE — Social Media Marketing**
 - **HP LIFE — Professional Networking for Career Growth**
+
+---
+## 💼 Product & Business Skills
+
+<div align="center">
+
+Product Development  
+Product Strategy  
+Startup Ideation  
+Entrepreneurship  
+Design Thinking  
+Business Model Development  
+Market Research  
+Project Management  
+Leadership  
+Innovation Management  
+Requirement Analysis  
+Team Collaboration
+
+</div>
 
 ---
 
@@ -186,19 +246,71 @@ Full-Stack AI Applications
 
 ---
 
-## 🎯 Vision
+## 🎯 My Vision
+
+<div align="center">
 
 > **“The future belongs to those willing to build it.”**
 
-My goal is to work at the intersection of **Artificial Intelligence, Engineering, and Entrepreneurship** — creating technology that is not only intelligent, but useful, scalable, and meaningful.
+<br>
 
-I want to build products that can move from:
+My mission is to bridge the gap between **Artificial Intelligence, Engineering, and Entrepreneurship**  
+by building intelligent products that solve meaningful problems.
 
-**Idea → Prototype → Product → Impact**
+<br>
+
+I aspire to become an **AI Engineer and Technology Entrepreneur**  
+who creates scalable solutions capable of improving **healthcare, education, productivity, and everyday life** through innovation.
+
+<br>
+
+### **Idea → Prototype → Product → Impact**
+
+<br>
 
 Not simply to follow the future.
 
-**To help build it.**
+### **To help build it.**
+
+</div>
 
 ---
 
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<br>
+
+<a href="https://github.com/gaudham7">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<i>Open to ideas, collaborations, and building what comes next.</i>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:333333,100:000000&height=180&section=footer&animation=twinkling"/>
+
+</div>
+
+<div align="center">
+
+### **IDEA → BUILD → IMPACT**
+
+<i>Ideas are everywhere. Builders turn them into reality.</i>
+
+</div>
