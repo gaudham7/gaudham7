@@ -53,20 +53,18 @@ I build to create what comes next.**
 
 <div align="center">
 
-| 🤖 Artificial Intelligence | 💻 Software Engineering |
-|:---:|:---:|
+| 🤖 **Artificial Intelligence** | 💻 **Software Engineering** |
+|:---|:---|
 | Machine Learning | Python |
 | Deep Learning | Full-Stack Development |
 | Computer Vision | APIs |
 | Generative AI | Application Architecture |
 
-| 🧠 AI Products | 🚀 Product Development |
-|:---:|:---:|
+| 🧠 **AI Products** | 🚀 **Product Development** |
+|:---|:---|
 | Intelligent Assistants | Prototyping |
 | Automation | Product Architecture |
 | Recommendation Systems | Problem Solving |
-
-</div>
 
 ---
 
@@ -267,29 +265,33 @@ Full-Stack AI Applications
 
 ---
 
+
+## 📚 Currently Exploring
+
+<div align="center">
+
+**Artificial Intelligence** · **Machine Learning** · **Computer Vision** · **Generative AI**  
+**RAG Systems** · **AI Product Architecture** · **MLOps** · **Cloud AI** · **Full-Stack AI Applications**
+
+</div>
+
+---
+
 ## 🎯 My Vision
 
 <div align="center">
 
 > **“The future belongs to those willing to build it.”**
 
-<br>
-
 My mission is to bridge the gap between **Artificial Intelligence, Engineering, and Entrepreneurship**  
 by building intelligent products that solve meaningful problems.
-
-<br>
 
 I aspire to become an **AI Engineer and Technology Entrepreneur**  
 who creates scalable solutions capable of improving **healthcare, education, productivity, and everyday life** through innovation.
 
-<br>
-
 ### **Idea → Prototype → Product → Impact**
 
-<br>
-
-Not simply to follow the future.
+*Not simply to follow the future.*
 
 ### **To help build it.**
 
@@ -303,19 +305,15 @@ Not simply to follow the future.
 
 ### **Let's build something meaningful.**
 
-<br>
-
 <a href="https://github.com/gaudham7">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <i>Open to ideas, collaborations, and building what comes next.</i>
 
@@ -325,14 +323,12 @@ Not simply to follow the future.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:333333,100:000000&height=180&section=footer&animation=twinkling"/>
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E1B4B,50:312E81,75:0E7490,100:111827&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
 <div align="center">
 
-### **IDEA → BUILD → IMPACT**
-
-<i>Ideas are everywhere. Builders turn them into reality.</i>
+*Ideas are everywhere. Builders turn them into reality.*
 
 </div>
