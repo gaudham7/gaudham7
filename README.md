@@ -202,19 +202,3 @@ Not simply to follow the future.
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/gaudham7">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Ideas are everywhere. Builders turn them into reality.</i>
-</p>
