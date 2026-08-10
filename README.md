@@ -291,9 +291,7 @@ who creates scalable solutions capable of improving **healthcare, education, pro
 
 ### **Idea → Prototype → Product → Impact**
 
-*Not simply to follow the future.*
-
-### **To help build it.**
+*Not simply to follow the future but to build it in most unique way.*
 
 </div>
 
