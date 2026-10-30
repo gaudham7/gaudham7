@@ -192,39 +192,7 @@ A concept for a secure and collaborative learning platform combining AI tutoring
 <img src="https://img.shields.io/badge/OCR-111111?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=FFFFFF"/>
 
-</div>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-🏅 **Oracle Fusion AI Agent Studio — Certified Foundations**
-
-<br>
-
-🏅 **IBM Artificial Intelligence Fundamentals**
-
-<br>
-
-🏅 **Cisco Introduction to Data Science**
-
-<br>
-
-🏅 **HP LIFE — Introduction to Data Science**
-
-<br>
-
-🏅 **HP LIFE — Social Media Marketing**
-
-<br>
-
-🏅 **HP LIFE — Professional Networking for Career Growth**
-
-</div>
-
----
+</div
 
 ## 💼 Product & Business Skills
 
